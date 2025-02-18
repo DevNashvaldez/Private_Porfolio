@@ -1,5 +1,5 @@
 body{
-    background-image: url(../bg2.jpg);
+    background-image: url(bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -22,7 +22,7 @@ a,a:hover{
 
 #profile{
     /* background-color: black; */
-    background-image: url(../header-shadow.png);
+    background-image: url(header-shadow.png);
     background-position: center bottom;
     background-repeat: repeat-x;
     overflow: hidden;
@@ -39,7 +39,7 @@ a,a:hover{
 
 .about .photo-inner{
     float: left;
-    background:url(../img/photo-inner.png) no-repeat;
+    background:url(photo-inner.png) no-repeat;
     width: 210px;
     height: 210px;
     padding: 12px 0 0 18px;
@@ -76,7 +76,7 @@ a,a:hover{
     width: 310px;
     min-height: 230px;
     margin-left: 10px;
-    background:url(../personal-info-sep.png) no-repeat left top;
+    background:url(personal-info-sep.png) no-repeat left top;
     padding: 20px 0 19px 20px;
 }
 
@@ -174,7 +174,7 @@ li.tmenu{
 }
 
 a.tab-profile.active{
-    background: url(../tab-hover.png) no-repeat;
+    background: url(tab-hover.png) no-repeat;
     color: #ffcc00;
 }
 
@@ -218,7 +218,7 @@ i.fa.fa-share-alt-square {
 }
 
 body {
-    background-image: url(../bg2.jpg);
+    background-image: url(bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
